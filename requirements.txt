@@ -1,8 +1,0 @@
-streamlit
-ultralytics
-torch
-torchvision
-Pillow
-opencv-python-headless
-av
-streamlit-webrtc
